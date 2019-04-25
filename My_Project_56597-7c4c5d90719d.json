@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dark-airway-238209",
+  "private_key_id": "7c4c5d90719d20bef290f71dd375b4a2dae2871c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWdBW3vIJuuvJO\nsLv8pKnzkKxXTs/vJ6okc/SZf2r8uxeqyDzvncbiqYJiJXJvWCzo+Tcsd9X9Jees\nEUIYxmvBu52/yA9LRrHaE8Lk60vnhiEMiujVI1QiyH0lYX7HN+33LVisfzHVFqEd\n6zz9gtWeYDnAFgxtVX5PdYls/vqFHkY5i1T1SU1DdUyAWtgNtPIue/iwFKppq0w+\nAF1kFREoOnbdlaHvXyThjET3si9EqV3f38yJVtPqweb8Jqlp2boqMX971kWEDG9X\na5EKanhZ2/QpmwFkBgm95ngQROPMm9poJNReYN5ChOkgVwmBcpySV2AcCrqCVY/B\n6HQjXszpAgMBAAECggEACkykU3WCxs6Cqacg2VLS5Q7vc1MceipQlAoBkbP2qJos\nrLbkMAGQpMHWoH4ggzWJroGn+KHz+s5KWZ29VPmZVRPxQLiS7nPmly+Q4Q+n/K+S\nidulBHk0iGSJ56IQ1hWysz/uEPHsoQIZcbVBsbeQBNVgwrDntSDcApfA2n6qeuwM\nk1X1YoWH6N2kGrp9a6QBs7uKAkr5OLA10vsbOifaGBNgnVicAxjmkZjOIB7SVdOi\nWXLtrp+/fHLLYpP81HCmIZCJ5+DjEk9ix3S7lCIMDFeHfbmVLlpkWq7fTImqsO5E\niOBp/1puEBj/rWcTcTB3j2LH/E69WTzZQN41P3G6cQKBgQDSCN8sS3A2Sgc5ruYo\nEqvVdHGh2zZVoQIT1223vJZ+M+oJ07v1jWr1WG9nOWq8zfrY0Rh1H2LWCaP4DjEf\nB7NY2Rs04SrISEloDsibzGgOksUPV/XJD3KczcYxxuhvjB2jkBiDgK+uKG8Mly6G\nLpSeUpxucW+K9gFUW1mm9mwvuQKBgQC3YTHBkYXtIfSDMb3yM0nM8rBYpx7LuDlZ\nqB6HbNhEke1ey8TIWjoa82PhiPU+xYOe6LeKy38xyYGD8jmBmZuhcvGH+Ln4sHoM\ncyAbQpTaApJgrZtTQLxTsOkEvCgqWfzX2XTIFMDvP+9mhgxXK97mJ+qDIgfQqb19\nam0K+ps+sQKBgHO2o415ukaOnlBvRSnKr5SX5IqxhMvEOqrHwxC4+4hn/YaQejsc\nQFMO98E85stCB/Mvr3PHaOJWyVk+KF3aFjra0ZxeeP2Cpb6IdokvIhz1S0/au/Sb\naB9vVsPRu/jIjwOvvXGlkiQ27odXOzB9tS9MgBZwtG0wfycEdO4BUTUxAoGAYzFl\n8qi+4uhtFNJBRtPLZdsY3Lt5gwThsMepy+NqkJzG43IhvaZgq9df/c1Rq2S3r6t+\nLMuqv8maDz9lL99hOdGtKLm4DveW7UkQ4u3/CnY9q6H81Om9dR/Ky87jgxUuGav8\n6YWgX0ocOz7jSfvnFGQfDFPKGmrWnxKEbV3lv+ECgYEAlco+2BPEnZutQMsVQk8r\n2xyo8+iR0N1/cyPI5f+FRKocAB1HLILa6nh4Uqqyck7Wau8b6nF1vRqay+MpAKmp\nwpTPoCq3FMq2yh92b3tgudwqgjDClP5eRBwNFc3shISonsQTs8/YkyYtDNYkiiL1\n0tgocsS8ciOHVXlhHQvdkiw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "forcsvfile@dark-airway-238209.iam.gserviceaccount.com",
+  "client_id": "103266504984575115544",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forcsvfile%40dark-airway-238209.iam.gserviceaccount.com"
+}
