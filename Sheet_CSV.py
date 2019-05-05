@@ -3,21 +3,25 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import Arguments
 
-def main():
+args = Arguments.args
 
-    args = Arguments.args
+def authorization():
     scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
-
     credentials = ServiceAccountCredentials.from_json_keyfile_name(
         args.credentials, scope)
+    return gspread.authorize(credentials)
 
-    gc = gspread.authorize(credentials)
-    sh = gc.create(args.title)
-    sh.share(args.email, perm_type='user', role='writer')
-    sh = gc.open(args.title)
+def create_spreadsheet(client):
+    speadsheet = client.create(args.title)
+    speadsheet.share(args.email, perm_type='user', role='writer')
+
+def import_csv(client):
+    speadsheet = client.open(args.title)
     content = open(args.csv, 'r').read()
-    gc.import_csv(sh.id, content)
+    client.import_csv(speadsheet.id, content)
 
 if __name__ == '__main__':
-    main()
+    client = authorization()
+    create_spreadsheet(client)
+    import_csv(client)
