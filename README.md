@@ -4,8 +4,6 @@ The small project is for creating Google spreadsheet and uploading CSV files
 
 **Requirements**
 
-Automation testing for OpenFit blog uses web framework version_2.
-
 - Gspread 
 - Oauth2client
 - Python 3.x
